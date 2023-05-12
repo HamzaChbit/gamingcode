@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://HamzaChbit.github.io/ecommerce-react",
+            "request": "launch",
+            "url": "https://HamzaChbit.github.io/ecommerce-react"
+        }
+    ]
+}
