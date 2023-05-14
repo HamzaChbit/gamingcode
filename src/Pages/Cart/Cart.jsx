@@ -35,10 +35,6 @@ const cssimage = {
 
 
 
-
-
-
-
   return (
     <div  className='item' >  
 

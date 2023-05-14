@@ -151,7 +151,8 @@ h1 {
     .title1 {
         color: white;
         font-weight: 900;
-        font-size: 16px;
+        font-size: 30px;
+        margin-bottom: 15px;
         text-transform: uppercase;
     }
 
@@ -168,7 +169,7 @@ h1 {
         background: linear-gradient(to right, #493240, #FF0099);
         /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         color: white;
-        text-transform: capitalize;
+        text-transform: lowercase;
         font-weight: 600;
         padding-left: 5px;
         padding-right: 0px;
@@ -179,16 +180,16 @@ h1 {
 
     .images {
 
-        width: 150px;
+        width: 200px;
 
-        height: 120px;
+        height: 180px;
 
 
     }
 
     .images:hover {
-        height: 120px;
-        width: 150px;
+        height: 180px;
+        width: 200px;
 
     }
 
@@ -261,9 +262,9 @@ h1 {
 
     .images {
 
-        width: 150px;
+        width: 200px;
 
-        height: 120px;
+        height: 180px;
 
 
     }
@@ -300,4 +301,7 @@ h1 {
         cursor: pointer;
 
     }
+     
+
+
 }

@@ -162,7 +162,7 @@ cursor: pointer;
              margin-left: 20%;
          }
          .para{
-             width: 50%;
+             width: 80%;
              height: auto;
              padding: 20px;
              
@@ -179,6 +179,14 @@ cursor: pointer;
 /* For Mobile Landscape View */
 @media screen and (max-device-width: 640px)
     and (orientation: landscape) {
+        .para{
+            width: 80%;
+            height: auto;
+            padding: 20px;
+            
+            color: white;
+        
+        }
 
         .img  img{
 
